@@ -13,7 +13,7 @@
 | `Guilherme José de Oliveira Almeida` | `281218` | `Engenharia de Computação` |
 ## Proposta
 
->A proposta consiste em uma oficina de 40 minutos para alunos do Ensino Médio, intitulada 'Você Não É um Dado', que articula IA (Machine learning) e Cibersegurança a partir de uma experiência prática e reflexiva. Os participantes vivenciam, na prática, como uma Inteligência Artificial utiliza dados de usuários para direcionar anúncios e criar perfis de consumo, e, em seguida, discutem como esses mesmos dados podem ser usados para propósitos que talvez sejam desconhecidos do cidadão. A oficina utiliza os alunos como asmostra para o teste do modelo programado, tentando fornecer conteudos que lhe são interessantes. O objetivo é desenvolver pensamento crítico, consciência sobre o valor dos dados pessoais e autonomia no ambiente digital, formando jovens concientes acerca de como os dados disponibilizados no ambiente online podem ser usados, a fim de terem autonomia durante a gestão de informações pessoais.
+>A proposta consiste em uma oficina de 40 minutos para alunos do Ensino Médio, intitulada 'Você Não É um Dado', que articula IA (Machine learning) e Cibersegurança a partir de uma experiência prática e reflexiva. Os participantes vivenciam, na prática, como uma Inteligência Artificial utiliza dados de usuários para direcionar anúncios e criar perfis de consumo, e, em seguida, discutem como esses mesmos dados podem ser usados para propósitos que talvez sejam desconhecidos do cidadão. A oficina utiliza os alunos como asmostra para o teste do modelo programado, tentando fornecer conteudos que lhe são interessantes. O objetivo é desenvolver pensamento crítico, consciência sobre o valor dos dados pessoais e autonomia no ambiente digital, formando jovens conscientes acerca de como os dados disponibilizados no ambiente online podem ser usados, a fim de terem autonomia durante a gestão de informações pessoais.
 
 ## Problema e Contexto
 
@@ -72,11 +72,11 @@
     `Alunos de 16 e 17 anos, matriculados no Ensino Médio.`
 -   **Contexto de aplicação:**
     `Escola de Ensino Médio (a instituição parceira ainda está em negociação). A atividade será realizada em sala de aula ou auditório, com o telão como ferramenta central.`
--   **Número estimado de participantes:** `120 alunos (3 turmas)`
+-   **Número estimado de participantes:** `80 alunos (2 turmas)`
 -   **Período previsto:** `15 a 22 de Outubro`
 
 **Estado atual da articulação:**\
-`Estamos atualmente conversando com um colégio de São Paulo para ver se é possível viabilizar, além de outras escolas de ensino fundamental de Campinas e Barão Geraldo`
+`Já conversamos com um colégio de São Paulo e estamos esperando resposta do professor responsável.`
 
 ### Alternativas e Contingências
 

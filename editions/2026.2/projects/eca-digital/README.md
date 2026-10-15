@@ -13,7 +13,7 @@
 | `Guilherme José de Oliveira Almeida` | `281218` | `Engenharia de Computação` |
 ## Proposta
 
->A proposta consiste em uma oficina de 40 minutos para alunos do Ensino Médio, intitulada 'Você Não É um Dado', que articula IA (Machine learning) e Cibersegurança a partir de uma experiência prática e reflexiva. Os participantes vivenciam, na prática, como uma Inteligência Artificial utiliza dados de usuários para direcionar anúncios e criar perfis de consumo, e, em seguida, discutem como esses mesmos dados podem ser usados para propósitos que talvez sejam desconhecidos do cidadão. A oficina utiliza os alunos como asmostra para o teste do modelo programado, tentando fornecer conteudos que lhe são interessantes. O objetivo é desenvolver pensamento crítico, consciência sobre o valor dos dados pessoais e autonomia no ambiente digital, formando jovens concientes acerca de como os dados disponibilizados no ambiente online podem ser usados, a fim de terem autonomia durante a gestão de informações pessoais.
+>A proposta consiste em uma oficina de 40 minutos para alunos do Ensino Médio, intitulada 'Você Não É um Dado', que articula IA (Machine learning) e Cibersegurança a partir de uma experiência prática e reflexiva. Os participantes vivenciam, na prática, como uma Inteligência Artificial utiliza dados de usuários para direcionar anúncios e criar perfis de consumo, e, em seguida, discutem como esses mesmos dados podem ser usados para propósitos que talvez sejam desconhecidos do cidadão. A oficina utiliza os alunos como asmostra para o teste do modelo programado, tentando fornecer conteudos que lhe são interessantes. O objetivo é desenvolver pensamento crítico, consciência sobre o valor dos dados pessoais e autonomia no ambiente digital, formando jovens conscientes acerca de como os dados disponibilizados no ambiente online podem ser usados, a fim de terem autonomia durante a gestão de informações pessoais.
 
 ## Problema e Contexto
 
@@ -41,7 +41,7 @@
 
 ## Experiência
 
-> A experiência planejada consiste em uma oficina de 45 minutos, conduzida com o telão como ferramenta central. A atividade começa com uma provocação: 'O que seu feed sabe sobre você?'. Em seguida, os alunos respondem anonimamente a um formulário com 8 perguntas sobre seus interesses, hábitos e consumo (jogo favorito, música, rede social, marca, pesquisas, etc.). O organizador insere os dados em um modelo simples de Machine Learning que classifica automaticamente os alunos em grupos de perfil – por exemplo: 'Gamer', 'Vestibulando', 'Influencer', 'Alternativo'. A partir dessa classificação, o organizador projeta no telão exemplos de anúncios, conteúdos e produtos que seriam direcionados especificamente para cada grupo, mostrando na prática como a IA usa os dados para atrair e influenciar cada perfil. Em seguida, são apresentados diversos anúncios, com anúncios golpistas misturados, e os alunos precisam identificá-los e refletir sobre como esses mesmos dados podem ser usados para o mal – como manipulação, golpes e violações de privacidade. A oficina encerra com uma discussão ética: **`Você é o cliente ou o produto?`**
+> A experiência planejada consiste em uma oficina de 45 minutos, conduzida com o telão como ferramenta central. A atividade começa com uma provocação: 'Qual nota você daria para um determinado filme?'. Em seguida, os alunos respondem anonimamente a um formulário avaliando filmes de sua escolha de um total de 4000 filmes até 2018. O organizador insere os dados em um modelo simples de Machine Learning que classifica as notas automaticamente os alunos em grupos de perfil – por exemplo: 'Gamer', 'Vestibulando', 'Influencer', 'Alternativo'. A partir dessa classificação, o organizador projeta no telão exemplos de anúncios, conteúdos e produtos que seriam direcionados especificamente para cada grupo, mostrando na prática como a IA usa os dados para atrair e influenciar cada perfil. Em seguida, são apresentados diversos anúncios, com anúncios golpistas misturados, e os alunos precisam identificá-los e refletir sobre como esses mesmos dados podem ser usados para o mal – como manipulação, golpes e violações de privacidade. A oficina encerra com uma discussão ética: **`Você é o cliente ou o produto?`**
 
 ### Roteiro da Atividade
 
@@ -72,11 +72,11 @@
     `Alunos de 16 e 17 anos, matriculados no Ensino Médio.`
 -   **Contexto de aplicação:**
     `Escola de Ensino Médio (a instituição parceira ainda está em negociação). A atividade será realizada em sala de aula ou auditório, com o telão como ferramenta central.`
--   **Número estimado de participantes:** `120 alunos (3 turmas)`
+-   **Número estimado de participantes:** `80 alunos (2 turmas)`
 -   **Período previsto:** `15 a 22 de Outubro`
 
 **Estado atual da articulação:**\
-`Estamos atualmente conversando com um colégio de São Paulo para ver se é possível viabilizar, além de outras escolas de ensino fundamental de Campinas e Barão Geraldo`
+`Já marcamos com um colégio de São Paulo e agora estamos conversando com o professor responsável.`
 
 ### Alternativas e Contingências
 
